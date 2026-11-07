@@ -1,0 +1,50 @@
+[
+  {
+    "person": {
+      "name": "Peter Dinklage",
+      "image": null
+    },
+    "character": {
+      "name": "Tyrion Lannister",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Emilia Clarke",
+      "image": null
+    },
+    "character": {
+      "name": "Daenerys Targaryen",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Kit Harington",
+      "image": null
+    },
+    "character": {
+      "name": "Jon Snow",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Lena Headey",
+      "image": null
+    },
+    "character": {
+      "name": "Cersei Lannister",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  }
+]

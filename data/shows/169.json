@@ -1,0 +1,34 @@
+{
+  "id": 169,
+  "url": "https://www.tvmaze.com/shows/169",
+  "name": "Breaking Bad",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "status": "Ended",
+  "runtime": 60,
+  "averageRuntime": 60,
+  "premiered": "2008-01-20",
+  "ended": "2013-09-29",
+  "officialSite": null,
+  "rating": {
+    "average": 9.2
+  },
+  "network": {
+    "id": null,
+    "name": "AMC",
+    "country": {
+      "code": "US"
+    }
+  },
+  "webChannel": null,
+  "image": {
+    "medium": "data/posters/169.svg",
+    "original": "data/posters/169.svg"
+  },
+  "summary": "<p><b>Breaking Bad</b> follows a high-school chemistry teacher who turns to crime after a life-changing diagnosis.</p>"
+}

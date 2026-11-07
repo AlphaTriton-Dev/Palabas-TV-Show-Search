@@ -1,0 +1,74 @@
+[
+  {
+    "person": {
+      "name": "Jennifer Aniston",
+      "image": null
+    },
+    "character": {
+      "name": "Rachel Green",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Courteney Cox",
+      "image": null
+    },
+    "character": {
+      "name": "Monica Geller",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Lisa Kudrow",
+      "image": null
+    },
+    "character": {
+      "name": "Phoebe Buffay",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Matt LeBlanc",
+      "image": null
+    },
+    "character": {
+      "name": "Joey Tribbiani",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Matthew Perry",
+      "image": null
+    },
+    "character": {
+      "name": "Chandler Bing",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "David Schwimmer",
+      "image": null
+    },
+    "character": {
+      "name": "Ross Geller",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  }
+]

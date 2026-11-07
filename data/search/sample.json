@@ -1,0 +1,218 @@
+[
+  {
+    "score": 0.5,
+    "show": {
+      "id": 431,
+      "url": "https://www.tvmaze.com/shows/431",
+      "name": "Friends",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1994-09-22",
+      "ended": "2004-05-06",
+      "officialSite": null,
+      "rating": {
+        "average": 8.5
+      },
+      "network": {
+        "id": null,
+        "name": "NBC",
+        "country": {
+          "code": "US"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/431.svg",
+        "original": "data/posters/431.svg"
+      },
+      "summary": "<p><b>Friends</b> follows six friends in their twenties and thirties as they work, date, and share apartments in New York City.</p>"
+    }
+  },
+  {
+    "score": 0.5,
+    "show": {
+      "id": 526,
+      "url": "https://www.tvmaze.com/shows/526",
+      "name": "The Office",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2005-03-24",
+      "ended": "2013-05-16",
+      "officialSite": null,
+      "rating": {
+        "average": 8.6
+      },
+      "network": {
+        "id": null,
+        "name": "NBC",
+        "country": {
+          "code": "US"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/526.svg",
+        "original": "data/posters/526.svg"
+      },
+      "summary": "<p><b>The Office</b> is a mockumentary about the everyday lives of the employees of a paper company's branch office in Scranton, Pennsylvania.</p>"
+    }
+  },
+  {
+    "score": 0.5,
+    "show": {
+      "id": 169,
+      "url": "https://www.tvmaze.com/shows/169",
+      "name": "Breaking Bad",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2008-01-20",
+      "ended": "2013-09-29",
+      "officialSite": null,
+      "rating": {
+        "average": 9.2
+      },
+      "network": {
+        "id": null,
+        "name": "AMC",
+        "country": {
+          "code": "US"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/169.svg",
+        "original": "data/posters/169.svg"
+      },
+      "summary": "<p><b>Breaking Bad</b> follows a high-school chemistry teacher who turns to crime after a life-changing diagnosis.</p>"
+    }
+  },
+  {
+    "score": 0.5,
+    "show": {
+      "id": 2993,
+      "url": "https://www.tvmaze.com/shows/2993",
+      "name": "Stranger Things",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Science-Fiction"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 62,
+      "premiered": "2016-07-15",
+      "ended": "2025-12-31",
+      "officialSite": null,
+      "rating": {
+        "average": 8.6
+      },
+      "network": null,
+      "webChannel": {
+        "id": null,
+        "name": "Netflix"
+      },
+      "image": {
+        "medium": "data/posters/2993.svg",
+        "original": "data/posters/2993.svg"
+      },
+      "summary": "<p><b>Stranger Things</b> is set in a small Indiana town, where a boy's disappearance leads his friends and family to a secret lab and a strange girl.</p>"
+    }
+  },
+  {
+    "score": 0.5,
+    "show": {
+      "id": 335,
+      "url": "https://www.tvmaze.com/shows/335",
+      "name": "Sherlock",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "status": "Ended",
+      "runtime": 90,
+      "averageRuntime": 90,
+      "premiered": "2010-07-25",
+      "ended": "2017-01-15",
+      "officialSite": null,
+      "rating": {
+        "average": 8.9
+      },
+      "network": {
+        "id": null,
+        "name": "BBC One",
+        "country": {
+          "code": "GB"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/335.svg",
+        "original": "data/posters/335.svg"
+      },
+      "summary": "<p><b>Sherlock</b> brings Arthur Conan Doyle's detective into modern-day London, where he solves cases with his flatmate, Dr. John Watson.</p>"
+    }
+  },
+  {
+    "score": 0.5,
+    "show": {
+      "id": 82,
+      "url": "https://www.tvmaze.com/shows/82",
+      "name": "Game of Thrones",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2011-04-17",
+      "ended": "2019-05-19",
+      "officialSite": null,
+      "rating": {
+        "average": 8.9
+      },
+      "network": {
+        "id": null,
+        "name": "HBO",
+        "country": {
+          "code": "US"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/82.svg",
+        "original": "data/posters/82.svg"
+      },
+      "summary": "<p><b>Game of Thrones</b> follows noble families fighting for control of the Iron Throne in the land of Westeros.</p>"
+    }
+  }
+]

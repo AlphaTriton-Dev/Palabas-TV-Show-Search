@@ -1,0 +1,36 @@
+[
+  {
+    "score": 0.9,
+    "show": {
+      "id": 2993,
+      "url": "https://www.tvmaze.com/shows/2993",
+      "name": "Stranger Things",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Science-Fiction"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 62,
+      "premiered": "2016-07-15",
+      "ended": "2025-12-31",
+      "officialSite": null,
+      "rating": {
+        "average": 8.6
+      },
+      "network": null,
+      "webChannel": {
+        "id": null,
+        "name": "Netflix"
+      },
+      "image": {
+        "medium": "data/posters/2993.svg",
+        "original": "data/posters/2993.svg"
+      },
+      "summary": "<p><b>Stranger Things</b> is set in a small Indiana town, where a boy's disappearance leads his friends and family to a secret lab and a strange girl.</p>"
+    }
+  }
+]

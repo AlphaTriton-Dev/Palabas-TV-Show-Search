@@ -1,0 +1,50 @@
+[
+  {
+    "person": {
+      "name": "Bryan Cranston",
+      "image": null
+    },
+    "character": {
+      "name": "Walter White",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Aaron Paul",
+      "image": null
+    },
+    "character": {
+      "name": "Jesse Pinkman",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Anna Gunn",
+      "image": null
+    },
+    "character": {
+      "name": "Skyler White",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Dean Norris",
+      "image": null
+    },
+    "character": {
+      "name": "Hank Schrader",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  }
+]

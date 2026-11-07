@@ -1,0 +1,34 @@
+{
+  "id": 82,
+  "url": "https://www.tvmaze.com/shows/82",
+  "name": "Game of Thrones",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Fantasy"
+  ],
+  "status": "Ended",
+  "runtime": 60,
+  "averageRuntime": 60,
+  "premiered": "2011-04-17",
+  "ended": "2019-05-19",
+  "officialSite": null,
+  "rating": {
+    "average": 8.9
+  },
+  "network": {
+    "id": null,
+    "name": "HBO",
+    "country": {
+      "code": "US"
+    }
+  },
+  "webChannel": null,
+  "image": {
+    "medium": "data/posters/82.svg",
+    "original": "data/posters/82.svg"
+  },
+  "summary": "<p><b>Game of Thrones</b> follows noble families fighting for control of the Iron Throne in the land of Westeros.</p>"
+}

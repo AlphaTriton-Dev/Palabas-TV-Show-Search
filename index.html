@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Palabas · TV Show Search</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="wrap topbar-row">
+        <h1 class="logo">📺 Pala<span>bas</span></h1>
+        <span id="modeBadge" class="badge">Sample data</span>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <form id="searchForm" class="search" autocomplete="off">
+        <label for="query" class="sr-only">TV show title</label>
+        <input id="query" type="search" placeholder="Search a TV show… (try friends)" />
+        <button type="submit">Search</button>
+      </form>
+      <p id="status" class="status info" role="status">Type a show title and press Search.</p>
+
+      <!-- Extend D: sort toolbar, hidden until results appear -->
+      <div id="toolbar" class="toolbar" hidden>
+        <button id="sortBtn" type="button" class="sort-btn">⭐ Top rated first</button>
+      </div>
+
+      <!-- Step 2: JavaScript builds one card per show in here -->
+      <section id="results" class="grid" aria-label="Search results"></section>
+    </main>
+
+    <!-- Step 4: show details pop-up -->
+    <dialog id="details" class="details">
+      <button id="closeDetails" class="close" type="button" aria-label="Close details">×</button>
+      <div id="detailsBody" class="details-body"></div>
+    </dialog>
+
+    <footer class="wrap footer">
+      TV data from <a href="https://www.tvmaze.com/" target="_blank" rel="noopener">TVmaze</a>,
+      licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+      Sample mode uses saved files in <code>data/</code> for offline practice; they may differ from live data.
+    </footer>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

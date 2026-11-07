@@ -1,0 +1,50 @@
+[
+  {
+    "person": {
+      "name": "Steve Carell",
+      "image": null
+    },
+    "character": {
+      "name": "Michael Scott",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Rainn Wilson",
+      "image": null
+    },
+    "character": {
+      "name": "Dwight Schrute",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "John Krasinski",
+      "image": null
+    },
+    "character": {
+      "name": "Jim Halpert",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Jenna Fischer",
+      "image": null
+    },
+    "character": {
+      "name": "Pam Beesly",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  }
+]

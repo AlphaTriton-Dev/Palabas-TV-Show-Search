@@ -1,0 +1,32 @@
+{
+  "id": 526,
+  "url": "https://www.tvmaze.com/shows/526",
+  "name": "The Office",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Comedy"
+  ],
+  "status": "Ended",
+  "runtime": 30,
+  "averageRuntime": 30,
+  "premiered": "2005-03-24",
+  "ended": "2013-05-16",
+  "officialSite": null,
+  "rating": {
+    "average": 8.6
+  },
+  "network": {
+    "id": null,
+    "name": "NBC",
+    "country": {
+      "code": "US"
+    }
+  },
+  "webChannel": null,
+  "image": {
+    "medium": "data/posters/526.svg",
+    "original": "data/posters/526.svg"
+  },
+  "summary": "<p><b>The Office</b> is a mockumentary about the everyday lives of the employees of a paper company's branch office in Scranton, Pennsylvania.</p>"
+}

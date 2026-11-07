@@ -1,0 +1,39 @@
+[
+  {
+    "score": 0.9,
+    "show": {
+      "id": 335,
+      "url": "https://www.tvmaze.com/shows/335",
+      "name": "Sherlock",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "status": "Ended",
+      "runtime": 90,
+      "averageRuntime": 90,
+      "premiered": "2010-07-25",
+      "ended": "2017-01-15",
+      "officialSite": null,
+      "rating": {
+        "average": 8.9
+      },
+      "network": {
+        "id": null,
+        "name": "BBC One",
+        "country": {
+          "code": "GB"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/335.svg",
+        "original": "data/posters/335.svg"
+      },
+      "summary": "<p><b>Sherlock</b> brings Arthur Conan Doyle's detective into modern-day London, where he solves cases with his flatmate, Dr. John Watson.</p>"
+    }
+  }
+]

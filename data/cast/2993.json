@@ -1,0 +1,50 @@
+[
+  {
+    "person": {
+      "name": "Winona Ryder",
+      "image": null
+    },
+    "character": {
+      "name": "Joyce Byers",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "David Harbour",
+      "image": null
+    },
+    "character": {
+      "name": "Jim Hopper",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Millie Bobby Brown",
+      "image": null
+    },
+    "character": {
+      "name": "Eleven",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "name": "Finn Wolfhard",
+      "image": null
+    },
+    "character": {
+      "name": "Mike Wheeler",
+      "image": null
+    },
+    "self": false,
+    "voice": false
+  }
+]

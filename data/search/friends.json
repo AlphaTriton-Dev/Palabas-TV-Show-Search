@@ -1,0 +1,38 @@
+[
+  {
+    "score": 0.9,
+    "show": {
+      "id": 431,
+      "url": "https://www.tvmaze.com/shows/431",
+      "name": "Friends",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1994-09-22",
+      "ended": "2004-05-06",
+      "officialSite": null,
+      "rating": {
+        "average": 8.5
+      },
+      "network": {
+        "id": null,
+        "name": "NBC",
+        "country": {
+          "code": "US"
+        }
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "data/posters/431.svg",
+        "original": "data/posters/431.svg"
+      },
+      "summary": "<p><b>Friends</b> follows six friends in their twenties and thirties as they work, date, and share apartments in New York City.</p>"
+    }
+  }
+]
